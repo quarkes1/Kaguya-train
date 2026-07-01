@@ -5,6 +5,7 @@
 *.bin
 hf_cache/
 models/
+unsloth_compiled_cache/
 kaguya-merged/
 kaguya-lora/
 kaguya-ckpt*/
