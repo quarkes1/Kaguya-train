@@ -1,0 +1,32 @@
+# Model files (too large for GitHub)
+*.gguf
+*.safetensors
+*.pt
+*.bin
+hf_cache/
+models/
+kaguya-merged/
+kaguya-lora/
+kaguya-ckpt*/
+kaguya-gguf/
+
+# Python
+__pycache__/
+*.pyc
+
+# Temp files
+*.zip
+*.rar
+*.output
+subtitles/
+llama.cpp/
+llama-cpp-bin/
+agent_*.json
+append_*.py
+
+# Hugging Face upload temp
+hf-upload/
+
+# OS
+.DS_Store
+Thumbs.db
